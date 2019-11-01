@@ -353,3 +353,6 @@ Follow [#DeOldify](https://twitter.com/search?q=%23Deoldify) or [Jason Antic](ht
 All code in this repository is under the MIT license as specified by the LICENSE file.
 
 The model weights listed in this readme under the "Pretrained Weights" section are trained by ourselves and are released under the MIT license.
+
+Like this? Help me to develop it as a service by donating $5(https://www.paypal.me/gitbiz/5.00) to pay for server costs.
+
